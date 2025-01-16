@@ -12,8 +12,8 @@ def main():
     show_torch_version()
     test_neuron()
 
-    # generate_graph()
-    # generate_graph_using_math()
+    generate_graph()
+    generate_graph_using_math()
     generate_tensors()
 
 
